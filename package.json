@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/inpa12/nodevue/issues"
   },
-  "homepage": "https://github.com/inpa12/nodevue#readme"
+  "homepage": "https://github.com/inpa12/nodevue#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "mysql": "^2.18.1"
+  }
 }
